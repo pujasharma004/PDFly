@@ -1,0 +1,46 @@
+
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Gemini API
+google-genai
+langchain-google-genai
+
+# LangChain Framework
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+chromadb
+
+# PDF & Document Processing
+pypdf
+PyMuPDF
+
+# Environment Variables
+python-dotenv
+
+# HTTP Requests
+requests
+httpx
+
+# Frontend
+streamlit
+
+# Data Processing
+numpy
+pandas
+
+# Tokenization
+tiktoken
+
+# Logging
+loguru
